@@ -6,6 +6,6 @@ On maven Central ([latest release](https://mvnrepository.com/artifact/org.liteso
   <dependency>
     <groupId>org.litesoft</groupId>
     <artifactId>json_jackson_adaptor</artifactId>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
   </dependency>
 ```
