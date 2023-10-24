@@ -9,3 +9,5 @@ On maven Central ([latest release](https://mvnrepository.com/artifact/org.liteso
     <version>1.1.0</version>
   </dependency>
 ```
+
+version 1.1.0 adds prettyWriteValueAsStringOnlyNL so that on windows (and some very rare OSs) pretty print with 'linefeed' NewLines!
